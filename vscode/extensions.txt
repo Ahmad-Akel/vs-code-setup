@@ -1,0 +1,9 @@
+beardedbear.beardedtheme
+leetcode.vscode-leetcode
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-vscode-remote.remote-wsl
+vscode-icons-team.vscode-icons
+vscodevim.vim
+
